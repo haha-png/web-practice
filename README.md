@@ -1,2 +1,2 @@
 # web-pratice
-In this repository, I'll do some projects.
+In this repository, I'll do some exercises.
